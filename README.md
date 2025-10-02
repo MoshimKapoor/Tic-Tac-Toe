@@ -1,11 +1,11 @@
-🎮 Tic-Tac-Toe (C++ Console Game)
+# 🎮 Tic-Tac-Toe (C++ Console Game)
 
 A simple 2-player Tic-Tac-Toe game built in C++ for the console.
 Players take turns placing X and O on a 3x3 board until one player wins or the game ends in a tie.
 
+---
 
-
-✨ Features
+## ✨ Features
 
 ✅ 3x3 Tic-Tac-Toe board displayed in console
 
@@ -17,10 +17,10 @@ Players take turns placing X and O on a 3x3 board until one player wins or the g
 
 ✅ Detects a tie when the board is full
 
+---
 
 
-
-🏆 Rules
+## 🏆 Rules
 
 The game is played on a 3x3 board.
 
