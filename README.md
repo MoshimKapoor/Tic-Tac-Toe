@@ -3,6 +3,8 @@
 A simple 2-player Tic-Tac-Toe game built in C++ for the console.
 Players take turns placing X and O on a 3x3 board until one player wins or the game ends in a tie.
 
+
+
 ✨ Features
 
 ✅ 3x3 Tic-Tac-Toe board displayed in console
@@ -14,6 +16,8 @@ Players take turns placing X and O on a 3x3 board until one player wins or the g
 ✅ Win detection (rows, columns, diagonals)
 
 ✅ Detects a tie when the board is full
+
+
 
 
 🏆 Rules
